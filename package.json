@@ -6,5 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Joshua Stoutenburg <jehoshua02@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "BackstopJS": "git://github.com/garris/BackstopJS"
+  }
 }
