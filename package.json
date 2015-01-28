@@ -9,6 +9,7 @@
   "license": "MIT",
   "devDependencies": {
     "BackstopJS": "git://github.com/garris/BackstopJS",
+    "casperjs": "^1.1.0-beta3",
     "phantomjs": "^1.9.13"
   }
 }
