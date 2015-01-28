@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "BackstopJS example setup",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "backstop": "node_modules/BackstopJS/node_modules/.bin/gulp --cwd node_modules/BackstopJS/"
   },
   "author": "Joshua Stoutenburg <jehoshua02@gmail.com>",
   "license": "MIT",

@@ -23,7 +23,7 @@
   "grabConfigs": [
     {
       "testName": "http://getbootstrap.com",
-      "url": "./myCoolProject/index.html",
+      "url": "../../myCoolProject/index.html",
       "hideSelectors": [],
       "removeSelectors": [],
       "selectors": [
