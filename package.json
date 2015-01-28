@@ -8,6 +8,7 @@
   "author": "Joshua Stoutenburg <jehoshua02@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "BackstopJS": "git://github.com/garris/BackstopJS"
+    "BackstopJS": "git://github.com/garris/BackstopJS",
+    "phantomjs": "^1.9.13"
   }
 }
